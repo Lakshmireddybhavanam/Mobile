@@ -1,0 +1,35 @@
+{"Mobiles": [{
+  "Series":14,
+  "Brand": "Apple",
+  "Storage": 256,
+  "IMEI": 53208651320,
+  "Price":130000
+},
+{
+  "Series":15,
+  "Brand": "Apple",
+  "Storage": 256,
+  "IMEI": 53208651320,
+  "Price":150000
+},
+{
+  "Series":13,
+  "Brand": "Apple",
+  "Storage": 256,
+  "IMEI": 53208651320,
+  "Price":120000
+},
+{
+  "Series":12,
+  "Brand": "Apple",
+  "Storage": 256,
+  "IMEI": 53208651320,
+  "Price":80000
+},
+{
+  "Series":11,
+  "Brand": "Apple",
+  "Storage": 256,
+  "IMEI": 53208651320,
+  "Price":70000
+}]}
